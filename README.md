@@ -1,4 +1,4 @@
-# Part2 - Reinforcement Learning in Navigation Goal
+# Part 2 - Reinforcement Learning in Navigation Goal
 This is an assignment for my Industrial Automation course. The detials to recreate this project is at below.
 
 ## Reinforcement Learning
