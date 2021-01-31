@@ -1,5 +1,7 @@
-# AGV Assignment Part 2
-## Machine Learning
+# Part2 - Reinforcement Learning in Navigation Goal
+This is an assignment for my Industrial Automation course. The detials to recreate this project is at below.
+
+## Reinforcement Learning
 This is a modified repo from [ROBOTICS-GIT](https://github.com/ROBOTIS-GIT/turtlebot3_machine_learning)
 
 This project code is run with ROS-kinetic.
@@ -12,7 +14,7 @@ goal_x_list = [1, -1, -1]
 goal_y_list = [1, 1, -1] 
 ```
 
-You can follow the tutorial from [Robotics e-manual](https://emanual.robotis.com/docs/en/platform/turtlebot3/machine_learning/#machine-learning) to recreate this project by cloning this repo.
+You can follow the tutorial from [Robotics e-manual](https://emanual.robotis.com/docs/en/platform/turtlebot3/machine_learning/#machine-learning) (Change the repo for clonning in step 1.1.5 Machine Learning packages) to recreate this project by cloning this repo.
 ```
 $ cd ~/catkin_ws/src/
 $ git clone https://github.com/ccxuan123/machine_learning_assignment.git
