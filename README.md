@@ -1,5 +1,6 @@
 # Part 2 - Reinforcement Learning in Navigation Goal
 This is an assignment for my Industrial Automation course. The detials to recreate this project is at below.
+This project only tested in ROS Kinetic
 
 ## Reinforcement Learning
 This is a modified repo from [ROBOTICS-GIT](https://github.com/ROBOTIS-GIT/turtlebot3_machine_learning)
